@@ -1,9 +1,11 @@
 object_display_order:
-  - artist
-  - year
-  - dimensions
-  - medium
-  - location
+  - creator
+  - date
+  - type
+  - people
+  - demonstration
+  - description
+  - collection
 
 object_list:
 

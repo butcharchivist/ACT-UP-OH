@@ -13,20 +13,20 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: ACT UP Oral History Project
+subtitle: Latino/a Caucus
 reading_line:
 short_title:
 
 description:
-  one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  one_line: "The Latina/o Caucus was a working group of ACT UP New York that was most active between 1990 and 1994."
+  full: "The ACT UP Latina/o Caucus Archive is meant to be a resource for community activists, artists, journalists, historians, educators and most importantly, youth. It is also an ongoing collective memory project that is dynamic and flawed. The materials come from personal collections that have been made public for the first time, as well as the ACT UP NY records from the New York Public Library."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2021-12-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -34,10 +34,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
+  - name: ACT UP New York
+    location: New York 
     url:
-    logo: logo-getty.png
+    logo: ACT-UP-logo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,21 +46,54 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: sshulman
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Sarah
+    last_name: Shulman
+    title: Author and Researcher
+    affiliation: ACT UP New York
+    bio: "Sarah Schulman is a novelist, playwright, screenwriter, nonfiction writer and AIDS historian. Her 20th book, LET THE RECORD SHOW: A Political History of ACT UP, New York 1987-1993 was published in May 2021 by FSG."
+    url: https://us.macmillan.com/books/9780374185138
+    image: contributors/sarah-shulman.png
+
+contributor:
+  - id: jhubbard
+    type: primary
+    first_name: Jim
+    last_name: Hubbard
+    title: Videographer
+    affiliation: ACT UP New York
+    bio: "Jim Hubbard has been making films since 1974.  He made United in Anger: A History of ACT UP, a feature length documentary on ACT UP, the AIDS activist group, which won Best Documentary at MIX Milano and Reel Q Pittsburgh LGBT Film Festival and has played at over 150 museums, universities and film festivals worldwide. "
+    url: https://jimhubbardfilms.com/
+    image: contributors/jim-hubbard.png
+
+contributor:
+  - id: jwentzy
+    type: primary
+    first_name: James
+    last_name: Wentzy
+    title: Cinematographer
+    affiliation: ACT UP New York
+    bio: "James Wentzy was born October 21, 1952, in Brookings, South Dakota, and moved to New York City after graduating the Southern Illinois University film program in 1976. He has been a producer and director for DIVA TV since 1991, and is also a video archivist for the Estate Project's AIDS Activist Video Preservation Project for the New York Public Library. Fight Back, Fight AIDS was his first feature-length documentary."
+    url: 
+    image: contributors/james-wentzy.png
+
+contributor:
+  - id: jdemayo
+    type: primary
+    first_name: Julián de
+    last_name: Mayo
+    title: Researcher and Artist
+    affiliation: ACT UP New York
+    bio: "Born in Bogota to Chilean - Colombian parents, and raised in Canada, Julián de Mayo is a media artist and memory activist living in New York City. He has researched the Latina/o Caucus of ACT UP New York since 2012, and organized Presente! The Story of Latino AIDS Activism in NYC (2014) at the New York Public Library, which reunited the Latina/o Caucus for the first time in decades."
+    url: 
+    image: contributors/julian-de-mayo.png
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2021 ACT UP Oral History Project
 
 license:
   name: Creative Commons Attribution 4.0 International License
@@ -105,7 +138,7 @@ subject:
     name: PHOTOGRAPHY / Subjects & Themes / Historical
     identifer: PHO023100
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: act up, AIDS, activism, LGBT, LGBT history
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -121,4 +154,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: promo-image.png
