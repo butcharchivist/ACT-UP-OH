@@ -1,474 +1,569 @@
 figure_list:
+
  - id: "1"
     label: "Figure 1"
-    src: figures/1.jpg
+    src: figures/1.png
     caption: "Walker Evans. *[American Legionnaire]*, 1935. "
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "2"
     label: "Figure 2"
-    src: figures/2.jpg
+    src: figures/2.png
     caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
     credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "9b"
-    label: "Figure 9b"
-    src: figures/9b.jpg
+
+  - id: "3"
+    label: "Figure 3"
+    src: figures/3.png
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "4"
     label: "Figure 4"
     src: figures/4.jpg
     caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "5"
     label: "Figure 5"
     src: figures/5.jpg
     caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "6"
     label: "Figure 6"
     src: figures/6.jpg
     caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "7a"
     label: "Figure 7a"
     src: figures/7a.jpg
     caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "7b"
     label: "Figure 7b"
     src: figures/7b.jpg
     caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "7c"
     label: "Figure 7c"
     src: figures/7c.jpg
     caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "7d"
     label: "Figure 7d"
     src: figures/7d.jpg
     caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "7e"
     label: "Figure 7e"
     src: figures/7e.jpg
     caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "7f"
     label: "Figure 7f"
     src: figures/7f.jpg
     caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "7g"
     label: "Figure 7g"
     src: figures/7g.jpg
     caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "8"
     label: "Figure 8"
     src: figures/8.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "9a"
     label: "Figure 9a"
     src: figures/9a.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "9b"
     label: "Figure 9b"
     src: figures/9b.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "10"
     label: "Figure 10"
     src: figures/10.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "11"
     label: "Figure 11"
     src: figures/11.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "12"
     label: "Figure 12"
     src: figures/12.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "13"
     label: "Figure 13"
     src: figures/13.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "14"
     label: "Figure 14"
     src: figures/14.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "15"
     label: "Figure 15"
     src: figures/15.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "17a"
     label: "Figure 17a"
     src: figures/17a.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "17b"
     label: "Figure 17b"
     src: figures/17b.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "17c"
     label: "Figure 17c"
     src: figures/17c.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "17d"
     label: "Figure 17d"
     src: figures/17d.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "17e"
     label: "Figure 17e"
     src: figures/17e.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "17f"
     label: "Figure 17f"
     src: figures/17f.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "17g"
     label: "Figure 17g"
     src: figures/17g.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "18"
     label: "Figure 18"
     src: figures/18.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "19a"
     label: "Figure 19a"
     src: figures/19a.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "19b"
     label: "Figure 19b"
     src: figures/19b.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "19c"
     label: "Figure 19c"
     src: figures/19c.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "19d"
     label: "Figure 19d"
     src: figures/19d.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "20"
     label: "Figure 20"
     src: figures/20.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "21"
     label: "Figure 21"
     src: figures/21.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "22"
     label: "Figure 22"
     src: figures/22.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "23"
     label: "Figure 23"
     src: figures/23.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "24"
     label: "Figure 24"
     src: figures/24.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "25"
     label: "Figure 25"
     src: figures/25.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "26"
     label: "Figure 26"
     src: figures/26.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "27"
     label: "Figure 27"
     src: figures/27.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "28"
     label: "Figure 28"
     src: figures/28.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "29"
     label: "Figure 29"
     src: figures/29.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "30"
     label: "Figure 30"
     src: figures/30.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "31a"
     label: "Figure 31a"
     src: figures/31a.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "31b"
     label: "Figure 31b"
     src: figures/31b.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "32"
     label: "Figure 32"
     src: figures/32.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "33"
     label: "Figure 33"
     src: figures/33.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "34"
     label: "Figure 34"
     src: figures/34.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "35a"
     label: "Figure 35a"
     src: figures/35a.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "35b"
     label: "Figure 35b"
     src: figures/35b.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "36a"
     label: "Figure 36a"
     src: figures/36a.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "36b"
     label: "Figure 36b"
     src: figures/36b.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "37"
     label: "Figure 37"
     src: figures/37.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "38"
     label: "Figure 38"
     src: figures/38.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "39"
     label: "Figure 39"
     src: figures/39.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "40"
     label: "Figure 40"
     src: figures/40.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "41"
     label: "Figure 41"
     src: figures/41.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "42"
     label: "Figure 42"
     src: figures/42.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "43"
     label: "Figure 43"
     src: figures/43.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "44"
     label: "Figure 44"
     src: figures/44.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "45"
     label: "Figure 45"
     src: figures/45.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "46"
     label: "Figure 46"
     src: figures/46.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "47"
     label: "Figure 47"
     src: figures/47.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "48"
     label: "Figure 48"
     src: figures/48.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "49"
     label: "Figure 49"
     src: figures/49.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "50"
     label: "Figure 50"
     src: figures/50.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "51"
     label: "Figure 51"
     src: figures/51.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "52"
     label: "Figure 52"
     src: figures/52.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "53"
     label: "Figure 53"
     src: figures/53.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "54"
     label: "Figure 54"
     src: figures/54.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "55"
     label: "Figure 55"
     src: figures/55.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "56"
     label: "Figure 56"
     src: figures/56.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "57"
     label: "Figure 57"
     src: figures/57.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "58a"
     label: "Figure 58a"
     src: figures/58a.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "58b"
     label: "Figure 58b"
     src: figures/58b.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "58c"
     label: "Figure 58c"
     src: figures/58c.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "59"
     label: "Figure 59"
     src: figures/59.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "60"
     label: "Figure 60"
     src: figures/60.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "61"
     label: "Figure 61"
     src: figures/61.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "62"
     label: "Figure 62"
     src: figures/62.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+    
   - id: "a"
     label: "Figure a"
     src: figures/a.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "b"
     label: "Figure b"
     src: figures/b.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "c"
     label: "Figure c"
     src: figures/c.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "d"
     label: "Figure d"
     src: figures/d.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "e"
     label: "Figure e"
     src: figures/e.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "f"
     label: "Figure f"
     src: figures/f.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "g"
     label: "Figure g"
     src: figures/g.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "h"
     label: "Figure h"
     src: figures/h.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "i"
     label: "Figure i"
     src: figures/i.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "j"
     label: "Figure j"
     src: figures/j.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "k"
     label: "Figure k"
     src: figures/k.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "l"
     label: "Figure l"
     src: figures/l.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
+
   - id: "rvp-interview"
     poster: figures/a.jpg
     media_id: 53573688
@@ -485,108 +580,3 @@ figure_list:
     src: figures/evans.jpg
     caption: "*Walker Evans, profile, hand up to face*, 1937."
     credit: "Library of Congress Prints and Photographs Division"
-
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
-
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
-
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
-
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
-
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles

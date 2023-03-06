@@ -56,7 +56,6 @@ contributor:
     url: https://us.macmillan.com/books/9780374185138
     image: contributors/sarah-shulman.png
 
-contributor:
   - id: jhubbard
     type: primary
     first_name: Jim
@@ -67,7 +66,6 @@ contributor:
     url: https://jimhubbardfilms.com/
     image: contributors/jim-hubbard.png
 
-contributor:
   - id: jwentzy
     type: primary
     first_name: James
@@ -77,8 +75,7 @@ contributor:
     bio: "James Wentzy was born October 21, 1952, in Brookings, South Dakota, and moved to New York City after graduating the Southern Illinois University film program in 1976. He has been a producer and director for DIVA TV since 1991, and is also a video archivist for the Estate Project's AIDS Activist Video Preservation Project for the New York Public Library. Fight Back, Fight AIDS was his first feature-length documentary."
     url: 
     image: contributors/james-wentzy.png
-
-contributor:
+    
   - id: jdemayo
     type: primary
     first_name: Julián de
