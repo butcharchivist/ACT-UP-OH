@@ -7,18 +7,46 @@ object_display_order:
   - demonstration
   - description
   - collection
+  - tags
 
 object_list:
 
   - id: "001a"
-    title: "Human Erosion in California / Migrant Mother"
-    creator: "Dorothea Lange"
-    date: "1936"
-    type: "Gelatin silver print"
-    people: "xxx"
-    demonstration: "xx"
-    collection: "xx"
-    link:  
+    title: "Latinos ACT UP: Transnational AIDS Activism in the 1990s"
+    creator: "González, M. Alfredo"
+    date: "2008-06-29"
+    type: "Statement"
+    people: 
+    demonstration: 
+    collection: "The North American Congress on Latin America (NACLA)"
+    tags: "Ephemera, Transnational Activism, NYC Latino Communities, ACT UP Puerto Rico, Puerto Rican Day Parade, Puerto Rico, Anticolonial,  Activism, Argentina, Immigration, Vancouver AIDS Conference, ACT UP Americas, Huracán SIDA, Nicaragua, ILGA, Actions, Activism, Activists"
+    link: https://nacla.org/article/latinos-act-transnational-aids-activism-1990s
     figure:
       - id: "1"
+
+  - id: "002a"
+    title: "Silencio=Muerte: An Interview with Julian de Mayo on the Legacy of ACT-UP’s Latina/o Caucus"
+    creator: "Pastor, Néstor David"
+    date: "2010-12-01"
+    type: "Statement"
+    people: "Mayo, Julian de; Pastor, Néstor David"
+    demonstration: 
+    collection: "The Latinx Project at New York University"
+    tags: "Ephemera, Religion, NYC Latino Communities, Somos Uno,The Bronx, El Barrio, Education, Equal Access, Community Outreach, Transnational Activism, ACT UP Puerto Rico, ACT UP Americas, Puerto Rican Day Parade, Puerto Rico, Anticolonial, Activism, Argentina, Immigration, Vancouver AIDS Conference, Huracán SIDA, Nicaragua, ILGA, Actions, Activism, Activists "
+    link: https://www.latinxproject.nyu.edu/intervenxions/silenciomuerte-an-interview-with-julian-de-mayo-on-the-legacy-of-act-ups-latina/o-caucus
+    figure:
+      - id: "2"
+
+  - id: "003a"
+    title: "Latina/o Caucus at ILGA Conference"
+    creator: "González, Alfredo"
+    date: "1991-06"
+    type: "Photo"
+    people: "Larson, Sam; Pedraza, Jairo; Carrasco, César"
+    demonstration: "xx"
+    collection: "César Carrasco"
+    tags: "Transnational Activism, Mexico, ILGA"
+    link: 
+    figure:
+      - id: "3"
 
