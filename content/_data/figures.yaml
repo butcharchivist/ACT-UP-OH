@@ -21,62 +21,50 @@ figure_list:
   - id: "4"
     label: "Figure 4"
     src: figures/4.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Unknown. *ACT UP Americas Logo*, unknown."
+    credit: "New York Public Library, ACT UP New York Records"
 
   - id: "5"
     label: "Figure 5"
     src: figures/5.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Unknown. *Latina/o Caucus Statement - ¿Quienes Somos?*, c. 1991."
+    credit: "New York Public Library, ACT UP New York Records"
 
   - id: "6"
     label: "Figure 6"
     src: figures/6.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "POZ Magazine en Español. *Homovisiones Advertisement*, unknown."
+    credit: "Julian de Mayo"
 
   - id: "7a"
     label: "Figure 7a"
     src: figures/7a.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "POZ Magazine en Español. *Marina Alvarez on the Cover of Poz en Español*, 1997."
+    credit: "Julian de Mayo"
 
   - id: "7b"
     label: "Figure 7b"
     src: figures/7b.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "7c"
     label: "Figure 7c"
     src: figures/7c.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "7d"
     label: "Figure 7d"
     src: figures/7d.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "7e"
     label: "Figure 7e"
     src: figures/7e.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "7f"
     label: "Figure 7f"
     src: figures/7f.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "7g"
     label: "Figure 7g"
     src: figures/7g.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
 
   - id: "8"
     label: "Figure 8"

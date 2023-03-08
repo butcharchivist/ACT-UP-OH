@@ -43,10 +43,68 @@ object_list:
     date: "1991-06"
     type: "Photo"
     people: "Larson, Sam; Pedraza, Jairo; Carrasco, César"
-    demonstration: "xx"
+    demonstration: 
     collection: "César Carrasco"
     tags: "Transnational Activism, Mexico, ILGA"
     link: 
     figure:
       - id: "3"
+
+  - id: "004a"
+    title: "ACT UP Americas Logo"
+    creator: "Unknown"
+    date: "Unknown"
+    type: "Poster"
+    people: "González, Alfredo; Gonzalez, Luis; Larson, Sam; Aguais, Jesús"
+    demonstration: "Unknown"
+    collection: "New York Public Library, ACT UP New York Records, Box 30 Folder 1, Latina/o Caucus"
+    tags: "Transnational Activism, ACT UP Americas"
+    link: 
+    figure:
+      - id: "4"
+
+  - id: "005a"
+    title: "Latina/o Caucus Statement - ¿Quienes Somos?"
+    creator: "Unknown"
+    date: "Unknown"
+    type: "Statement, Poster"
+    people: "Unknown"
+    demonstration: "Unknown"
+    collection: "New York Public Library, ACT UP New York Records, Box 30 Folder 1, Latina/o Caucus"
+    tags: "Ephemera, Activism"
+    link: 
+    figure:
+      - id: "5"
+
+  - id: "006a"
+    title: "Homovisiones Advertisement"
+    creator: "POZ Magazine en Español"
+    date: "Unknown"
+    type: "Poster"
+    people: "Aburto, Gonzalo"
+    demonstration: 
+    collection: "Julian de Mayo"
+    tags: "Ephemera"
+    link: 
+    figure:
+      - id: "6"
+
+  - id: "007a"
+    title: "Marina Alvarez on the Cover of Poz en Español"
+    creator: "POZ Magazine en Español"
+    date: "1997"
+    type: "Statement, Photo"
+    people: "Alvarez, Marina; Aburto, Gonzalo; Hinojosa, Maria"
+    demonstration: 
+    collection: "Julian de Mayo"
+    tags: "Ephemera, Community Outreach, POZ Magazine en Español, NYC Latino Communities "
+    link: 
+    figure:
+      - id: "7a"
+      - id: "7b"
+      - id: "7c"
+      - id: "7d"
+      - id: "7e"
+      - id: "7f"
+      - id: "7g"
 
