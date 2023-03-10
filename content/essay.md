@@ -3,6 +3,8 @@ label:
 title: Latina/o Caucus
 subtitle: ACT UP New York
 layout: essay
+contributor:
+  - id: a4
 order: 30
 class: page-one
 abstract: |

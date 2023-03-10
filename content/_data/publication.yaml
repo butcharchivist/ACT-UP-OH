@@ -47,40 +47,44 @@ contributor_as_it_appears: Sarah Shulman, Jim Hubbard, James Wentzy, Julián de 
 
 contributor:
   
-  - id: sshulman
+  - id: a1
     type: primary
     first_name: Sarah
     last_name: Shulman
+    sort_as: "1"
     title: Author and Researcher
     affiliation: ACT UP New York
     bio: "Sarah Schulman is a novelist, playwright, screenwriter, nonfiction writer and AIDS historian. Her 20th book, LET THE RECORD SHOW: A Political History of ACT UP, New York 1987-1993 was published in May 2021 by FSG."
     url: https://us.macmillan.com/books/9780374185138
     image: contributors/sarah-shulman.png
 
-  - id: jhubbard
+  - id: a2
     type: primary
     first_name: Jim
     last_name: Hubbard
+    sort_as: "2"
     title: Videographer
     affiliation: ACT UP New York
     bio: "Jim Hubbard has been making films since 1974.  He made United in Anger: A History of ACT UP, a feature length documentary on ACT UP, the AIDS activist group, which won Best Documentary at MIX Milano and Reel Q Pittsburgh LGBT Film Festival and has played at over 150 museums, universities and film festivals worldwide. "
     url: https://jimhubbardfilms.com/
     image: contributors/jim-hubbard.png
 
-  - id: jwentzy
+  - id: a3
     type: secondary
     first_name: James
     last_name: Wentzy
+    sort_as: "3"
     title: Cinematographer
     affiliation: ACT UP New York
     bio: "James Wentzy was born October 21, 1952, in Brookings, South Dakota, and moved to New York City after graduating the Southern Illinois University film program in 1976. He has been a producer and director for DIVA TV since 1991, and is also a video archivist for the Estate Project's AIDS Activist Video Preservation Project for the New York Public Library. Fight Back, Fight AIDS was his first feature-length documentary."
     url: 
     image: contributors/james-wentzy.png
 
-  - id: jdemayo
+  - id: a4
     type: secondary
     first_name: Julián de
     last_name: Mayo
+    sort_as: "4"
     title: Researcher and Artist
     affiliation: ACT UP New York
     bio: "Born in Bogota to Chilean - Colombian parents, and raised in Canada, Julián de Mayo is a media artist and memory activist living in New York City. He has researched the Latina/o Caucus of ACT UP New York since 2012, and organized Presente! The Story of Latino AIDS Activism in NYC (2014) at the New York Public Library, which reunited the Latina/o Caucus for the first time in decades."

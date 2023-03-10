@@ -100,8 +100,9 @@
   }
   
   &__pic {
-    width: 100px;
-    border-radius: 60px;
+    width: 150px;
+    height: 150px;
+    border-radius: 90px;
     margin: .8em 1em .8em 0;
     overflow: hidden;
     @media screen and (min-width: $tablet) { max-width: 200px; }

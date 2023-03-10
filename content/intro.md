@@ -4,6 +4,8 @@ subtitle: ACT UP New York
 layout: splash
 order: 10
 image: figures/17b.jpg
+contributor:
+    - id: a1
 ---
 
 ACT UP, founded in March of 1987, is a diverse, non-partisan group of individuals, united in anger and committed to direct action to end the AIDS crisis.  Its determined advocacy and highly-focused demonstrations supported by innovative graphics utterly changed the world’s perception of people with AIDS and queer people.  It radically altered the medical research and drug approval processes in the United States, and the doctor/patient relationship, while its 4-year campaign to change the CDC definition of AIDS to include opportunistic infections affecting women and injection drug users saved millions of lives across the world.  The Latina/o Caucus fostered not only AIDS Activism, but also jump started LGBT activism in Puerto Rico.  For that reason and many others, we’re delighted that we could include the Latina/o Caucus Archive, a mixed media archive developed by Julián de Mayo and sourced largely from the personal collections of surviving members of the LC.

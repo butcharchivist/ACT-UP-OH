@@ -3,6 +3,7 @@ object_display_order:
   - creator
   - date
   - type
+  - number
   - people
   - demonstration
   - description
@@ -72,7 +73,7 @@ object_list:
     demonstration: "Unknown"
     collection: "New York Public Library, ACT UP New York Records, Box 30 Folder 1, Latina/o Caucus"
     tags: "Ephemera, Activism"
-    link: 
+    link: https://actuporalhistory.org/s/LC-STATEMENT-Quienes-Somos.pdf
     figure:
       - id: "5"
 
@@ -85,7 +86,7 @@ object_list:
     demonstration: 
     collection: "Julian de Mayo"
     tags: "Ephemera"
-    link: 
+    link: https://actuporalhistory.org/s/Homovisiones-ad.pdf
     figure:
       - id: "6"
 
@@ -98,7 +99,7 @@ object_list:
     demonstration: 
     collection: "Julian de Mayo"
     tags: "Ephemera, Community Outreach, POZ Magazine en Español, NYC Latino Communities "
-    link: 
+    link: https://actuporalhistory.org/s/Marina-Alvarez-on-the-Cover-of-Poz-en-Espaol.pdf
     figure:
       - id: "7a"
       - id: "7b"
@@ -107,4 +108,55 @@ object_list:
       - id: "7e"
       - id: "7f"
       - id: "7g"
+
+  - id: "008a"
+    title: "ACT UP Spanish Language Committee"
+    creator: "Spanish Language Committee"
+    date: "Unknown"
+    type: "Poster, Statement"
+    people: "Santiago, Luis 'Popo'; Agosto, Moisés"
+    demonstration: ""
+    collection: "New York Public Library, ACT UP New York Records, Box 30 Folder 1, Latina/o Caucus"
+    tags: "Spanish Language Committee, NYC Latino Communities"
+    link: https://actuporalhistory.org/s/ACT-UP-Spanish-Language-Committee.pdf
+    figure:
+      - id: "8"
+
+  - id: "009a"
+    title: "Manifiesto de Puerto Rico"
+    creator: "ACT UP Puerto Rico, ACT UP New York"
+    date: "1990-08"
+    type: "Poster, Statement, Photo"
+    people: "Agosto, Moisés; Britton, Darren; Gonzalez, Adela; Santos, Mayra; Vizcarrondo; Hufton, Bob"
+    demonstration: Unknown
+    collection: "New York Public Library, ACT UP New York Records, Box 30 Folder 1, Latina/o Caucus"
+    tags: "Anticolonial Activism, Puerto Rico, ACT UP Puerto Rico, Huracán SIDA "
+    link: https://actuporalhistory.org/s/Manifesto-de-Puerto-Rico.pdf
+    figure:
+      - id: "9a"
+      - id: "9b"
+
+  - id: "010a"
+    title: "SILENCIO = MUERTE flyer / manifesto"
+    creator: "Unknown"
+    date: "Unknown"
+    type: "Poster, Statement"
+    people: "Unknown"
+    demonstration: Unknown
+    collection: "New York Public Library, ACT UP New York Records, Box 30 Folder 1, Latina/o Caucus"
+    tags: "Equal Access, Ephemera, Memento, Transnational Activism, NYC Latino Communities "
+    link: 
+    figure:
+      - id: "10"
+
+  - id: "00a1"
+    title: "Robert Vazquez-Pacheco"
+    creator: "Shulman, Sarah"
+    date: "2002-12-14"
+    type: "Interview"
+    people: "Vazquez-Pacheco, Robert"
+    tags: "Majority Action, Coordinating Committee, Seize Control of the FDA, Safe Sex, ACT UP Graphics, Death and Dying, Women and AIDS, Treatment and Data Committee, Latina/o Caucus "
+    link: https://vimeo.com/53573688
+    figure:
+      - id: "a"
 

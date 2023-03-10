@@ -4,4 +4,6 @@ layout: page
 order: 501
 ---
 
-{{< q-contributor range="all" format="bio" align="right" >}}
+{% contributors context=publicationContributors type='primary' format='bio' %}
+
+{% contributors context=publicationContributors type='secondary' format='bio' %}
