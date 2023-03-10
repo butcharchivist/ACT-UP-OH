@@ -43,7 +43,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: Sarah Shulman, Jim Hubbard, James Wentzy, Julián de Mayo
 
 contributor:
   
@@ -68,7 +68,7 @@ contributor:
     image: contributors/jim-hubbard.png
 
   - id: jwentzy
-    type: primary
+    type: secondary
     first_name: James
     last_name: Wentzy
     title: Cinematographer
@@ -78,7 +78,7 @@ contributor:
     image: contributors/james-wentzy.png
 
   - id: jdemayo
-    type: primary
+    type: secondary
     first_name: Julián de
     last_name: Mayo
     title: Researcher and Artist
