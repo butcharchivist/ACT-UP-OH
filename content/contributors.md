@@ -1,7 +1,7 @@
 ---
 title: Contributors
 layout: page
-order: 501
+order: 500
 ---
 
 {% contributors context=publicationContributors type='primary' format='bio' %}

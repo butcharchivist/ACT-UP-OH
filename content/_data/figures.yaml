@@ -261,14 +261,14 @@ figure_list:
   - id: "31a"
     label: "Figure 31a"
     src: figures/31a.jpg
-    caption: ""
+    caption: "César Carrasco, *Logos of the Latina/o Caucus*"
     credit: ""
     alt: "Latino Caucus ACT UP New York logo featuring a pink triangle with an upside-down drawn geographical white color filled map of the Americas."
 
   - id: "31b"
     label: "Figure 31b"
     src: figures/31b.jpg
-    caption: ""
+    caption: "César Carrasco, *Logos of the Latina/o Caucus*"
     alt: "Latino Caucus ACT UP New York logo featuring a pink triangle with an upside-down precise geographical green color filled map of the Americas."
 
   - id: "32"
@@ -316,7 +316,8 @@ figure_list:
   - id: "37"
     label: "Figure 37"
     src: figures/37.jpg
-    caption: ""
+    caption: "César Carrasco, *Protest Against INS*"
+    credit: "César Carrasco"
     alt: "A black and white poster with a black color filled geographical outline of the United States between barbed wire with the text, 'Protesta Contra La Migra. Demonstrate against the INS top mandatory HIV testing! ACT UP.'"
 
   - id: "38"
