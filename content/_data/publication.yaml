@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'https://butcharchivist.github.io/ACT-UP-OH'
+url: 'http://localhost:8080/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
